@@ -1,2 +1,4 @@
 # ds4021_lab02
-Repository for collaborative lab work for DS4021 Group 5
+Group 4 Repository for working on lab 01
+
+**Group Members:** Kaitlin Luu, Natalie Schweickert, James Torgerson
